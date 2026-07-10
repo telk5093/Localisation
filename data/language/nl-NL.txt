@@ -3823,3 +3823,5 @@ STR_7033    :Baanstijl
 STR_7034    :Muursoort
 STR_7035    :Winkelstijl
 STR_7036    :Voertuigstijl
+STR_7037    :Bedrijfsmodus
+STR_7038    :Wacht- en laadinstellingen
